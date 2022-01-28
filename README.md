@@ -1,7 +1,9 @@
 # pin_assessment1
 Fist assessment from my programming in neuroimaging module. It contains the data, zip file of my original submission, and code that's been improved based on their feedback.
 
-Below are the instructions I was given for the assessment.
+### *Below are the instructions I was given for the assessment.*
+
+&nbsp;
 
 ---------------------------------------------------------------------
 
